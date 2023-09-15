@@ -1,2 +1,2 @@
 # bolirePlate
-Sequelize
+Sequelize + express + node
